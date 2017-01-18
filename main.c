@@ -20,6 +20,7 @@ int main()
          printf("  Id is: %d \n",ptr->id);
          printf("  Name is: %s \n",ptr->name );
          //printf("  Percentage is: %f n", *ptr);
+         printf("Hello world and I will succees\n");
 
      return 0;
 }
